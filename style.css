@@ -1,0 +1,14 @@
+body {
+	color: white;
+	background: black;
+	text-align: justify;
+	text-justify: inter-word;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+.indice {
+	text-align:center;
+}
