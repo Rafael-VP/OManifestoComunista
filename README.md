@@ -1,0 +1,1 @@
+#O Manifesto Comunista
